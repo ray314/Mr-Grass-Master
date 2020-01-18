@@ -1,12 +1,11 @@
-# Movie-Booking-System
-A GUI that allows a user to book movie tickets.
+# Mr-Grass-Master
 
-Movie names, ratings and times are displayed on the right.  <br />
-Seats in the selected movie are shown as buttons A,0 → H,5.  <br />
-Bottom buttons show the ticket type is selected.  <br />
-The 'New' button clears the current selection and the 'Book' button creates a new booking.  
+index.php  <br>
+Includes carousel  
 
-<img src="https://github.com/james126/Movie-Booking-System/blob/master/images/1.JPG" width="50%" height="50%">  
+<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index1.JPG" width="50%" height="50%">
+<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index2.JPG" width="50%" height="50%">
+<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index3.JPG" width="50%" height="50%">
 
 ---
 Once a seat is selected the seat button font changes colour indicating the ticket type.  
