@@ -26,5 +26,6 @@ Validates user input
 ---
 <b>submitted.php</b>   <br>
 Emails user data to client  
+Displays form data  
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/s.png" width="50%" height="50%">  
