@@ -106,7 +106,7 @@ carousel */
 }
 
 #outer-jumbotron{
-    margin-bottom:5rem; /* applies to services.html, about.html, contact.html - fixed footer overways additional jumbotron margin*/
+    margin-bottom:1.5rem; /* applies to services.html, about.html, contact.html - fixed footer overways additional jumbotron margin*/
 }
 
 #jumbotron-title{
