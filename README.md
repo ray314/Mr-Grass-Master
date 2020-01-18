@@ -8,23 +8,23 @@ Includes carousel
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/index3.jpg" width="50%" height="50%">
 
 ---
-services.php  
+<b>services.php</b>  
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/services.jpg" width="50%" height="50%">  
 
 ---  
-about.php
+<b>about.php</b>
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/about.png" width="50%" height="50%">  
 
 ---   
-contact.php  <br>
+<b>contact.php</b>  <br>
 Validates user input 
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.png" width="50%" height="50%">  
 
 ---
-submitted.php   <br>
+<b>submitted.php</b>   <br>
 Emails user data to client  
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/submitted.png" width="50%" height="50%">  
