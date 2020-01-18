@@ -20,6 +20,7 @@
 ---   
 <b>contact.php</b>  <br>
 * validates user input 
+* has a max number of input characters
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/c.png" width="50%" height="50%">  
 
