@@ -15,16 +15,16 @@ services.php
 
 about.php
 
-<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/about.jpg" width="50%" height="50%">
+<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/about.png" width="50%" height="50%">
 ---
 
 contact.php
 Validates user input
 
-<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.jpg" width="50%" height="50%">
+<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.png" width="50%" height="50%">
 ---
 
 submitted.php
 Emails form data to client
 
-<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/submitted.jpg" width="50%" height="50%">
+<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/submitted.png" width="50%" height="50%">
