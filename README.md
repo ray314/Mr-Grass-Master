@@ -1,6 +1,6 @@
 # Mr-Grass-Master
 
-index.php  <br>
+<b>index.php</b>  <br>
 Includes carousel  
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/index1.jpg" width="50%" height="50%">
