@@ -49,7 +49,7 @@
 <div class="container d-inline-flex flex-column">
     <div class="jumbotron about-outer-jumbotron"  id="outer-jumbotron">
         <div class="container">
-            <h1 class="text-center" id="main-title">Contact MGM</h1>
+            <h1 class="text-center" id="main-title">Contact Mr Grass Master</h1>
             <hr class="my-4">
             <p class="text-center lead submitted-text">Thanks, we will be in touch shortly!<br></p>
 
