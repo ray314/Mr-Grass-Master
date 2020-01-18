@@ -21,10 +21,10 @@ Includes carousel
 <b>contact.php</b>  <br>
 Validates user input 
 
-<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.png" width="50%" height="50%">  
+<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/submitted.png" width="50%" height="50%">  
 
 ---
 <b>submitted.php</b>   <br>
 Emails user data to client  
 
-<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/submitted.png" width="50%" height="50%">  
+<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.png" width="50%" height="50%">  
