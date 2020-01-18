@@ -1,7 +1,7 @@
 # Mr-Grass-Master
 
 <b>index.php</b>  <br>
-* Includes automatic/manual rotating carousel  
+* includes automatic/manual rotating carousel  
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/index1.jpg" width="50%" height="50%">
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/index2.jpg" width="50%" height="50%">
@@ -19,14 +19,14 @@
 
 ---   
 <b>contact.php</b>  <br>
-Validates user input 
+* validates user input 
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/c.png" width="50%" height="50%">  
 
 ---
 <b>submitted.php</b>   <br>
-Emails form data to client  
-Displays form data  
-Page cannot be displayed unless a valid form has been submitted  
+* emails form data 
+* displays form data  
+* page can't be displayed unless a valid form has been submitted  
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/s.png" width="50%" height="50%">  
