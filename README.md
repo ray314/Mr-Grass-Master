@@ -27,5 +27,6 @@ Validates user input
 <b>submitted.php</b>   <br>
 Emails form data to client  
 Displays form data  
+Page cannot be displayed unless a valid form has been submitted  
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/s.png" width="50%" height="50%">  
