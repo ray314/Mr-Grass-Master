@@ -3,9 +3,9 @@
 index.php  <br>
 Includes carousel  
 
-<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index1.JPG" width="50%" height="50%">
-<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index2.JPG" width="50%" height="50%">
-<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index3.JPG" width="50%" height="50%">
+<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index1.jpg" width="50%" height="50%">
+<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index2.jpg" width="50%" height="50%">
+<img src="https://github.com/james126/Mr-Grass-Master/screenshots/index3.jpg" width="50%" height="50%">
 
 ---
 Once a seat is selected the seat button font changes colour indicating the ticket type.  
