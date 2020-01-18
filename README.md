@@ -18,13 +18,13 @@ about.php
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/about.png" width="50%" height="50%">
 ---
 
-contact.php
+contact.php  
 Validates user input
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.png" width="50%" height="50%">
 ---
 
-submitted.php
+submitted.php  
 Emails form data to client
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/submitted.png" width="50%" height="50%">
