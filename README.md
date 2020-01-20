@@ -26,7 +26,6 @@
 
 ---
 <b>submitted.php</b>
-* emails form data 
-* page can't be displayed unless a valid form has been submitted  
+* emails and displays form data   
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/s.png" width="60%" height="60%">  
