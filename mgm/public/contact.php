@@ -50,7 +50,7 @@
                             <label>Address</label>
                             <input type="text" class="form-control" name="address_line1" value="" maxlength="60" required>
                             <small class="form-text text-muted">number and street</small>
-                            <div class="invalid-feedback">please enter</div>
+                            <div class="invalid-feedback">please enter name and street</div>
                         </div>
                     </div>
                 </div>
