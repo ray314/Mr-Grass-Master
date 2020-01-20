@@ -22,7 +22,7 @@
 * validates user input 
 * has a max number of input characters
 
-<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/c.png" width="50%" height="50%">  
+<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.png" width="50%" height="50%">  
 
 ---
 <b>submitted.php</b>   <br>
