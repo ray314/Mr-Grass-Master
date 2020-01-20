@@ -1,14 +1,14 @@
 # Mr-Grass-Master
 
 <b>index.php</b>
-* automatic/manual carousel  
+* automatic/manual carousel
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/index1.jpg" width="60%" height="60%">
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/index2.jpg" width="60%" height="60%">
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/index3.jpg" width="60%" height="60%">
 
 ---
-<b>services.php</b> 
+<b>services.php</b>
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/services.jpg" width="60%" height="60%">  
 
@@ -19,13 +19,12 @@
 
 ---   
 <b>contact.php</b>
-* validates user input 
-* has a max number of input characters
+* validates user input
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.png" width="60%" height="60%">  
 
 ---
 <b>submitted.php</b>
-* emails and displays form data   
+* emails and displays form data
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/s.png" width="60%" height="60%">  
