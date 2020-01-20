@@ -1,6 +1,6 @@
 # Mr-Grass-Master
 
-<b>index.php</b>  <br>
+<b>index.php</b>
 * automatic/manual carousel  
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/index1.jpg" width="60%" height="60%">
@@ -18,14 +18,14 @@
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/about.png" width="60%" height="60%">  
 
 ---   
-<b>contact.php</b>  <br>
+<b>contact.php</b>
 * validates user input 
 * has a max number of input characters
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/contact.png" width="60%" height="60%">  
 
 ---
-<b>submitted.php</b>   <br>
+<b>submitted.php</b>
 * emails form data 
 * page can't be displayed unless a valid form has been submitted  
 
