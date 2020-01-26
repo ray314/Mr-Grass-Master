@@ -26,6 +26,6 @@
 ---
 <b>submitted.php</b>
 * emails and displays form data
-* only displayed if a valid form has been submitted i.e. if user enters the url to submitted.php directly into their browser they are redirected to the contact.php page
+* only displayed if a valid form has been submitted i.e. if someone enters the URL to submitted.php directly into their browser they are redirected to the contact.php page
 
 <img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/s.png" width="60%" height="60%">  
