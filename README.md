@@ -28,4 +28,4 @@
 * emails and displays form data
 * only displayed if a valid form has been submitted i.e. if someone enters the URL to view the page submitted.php directly into their browser they are redirected to the contact.php page
 
-<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/s.png" width="60%" height="60%">  
+<img src="https://github.com/james126/Mr-Grass-Master/blob/master/screenshots/s.png" width="60%" height="60%">
